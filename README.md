@@ -1,3 +1,3 @@
 # Dehaze-by-Dark-Channel-Prior
-## Author:sungx
-## Data:20191203
+* Author:sungx
+* Data:20191203
